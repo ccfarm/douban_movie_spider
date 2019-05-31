@@ -1,0 +1,68 @@
+[2019-05-31 18:17:46,239 INFO  7306 main.py] finish 25890017
+ 哥斯拉2：怪兽之王 Godzilla: King of the Monsters 2019 6.9 13254
+[2019-05-31 18:18:17,094 ERROR 7306 main.py] get_data error movie_id: 27109633 error: could not convert string to float: 
+[2019-05-31 18:18:29,651 ERROR 7306 main.py] get_data error movie_id: 6874475 error: Invalid control character at: line 168 column 220 (char 3808)
+[2019-05-31 18:18:58,523 ERROR 7306 main.py] get_data error movie_id: 25828589 error: could not convert string to float: 
+[2019-05-31 18:19:16,136 ERROR 7306 main.py] get_data error movie_id: 3001114 error: could not convert string to float: 
+[2019-05-31 18:19:44,709 ERROR 7306 main.py] get_data error movie_id: 30444942 error: could not convert string to float: 
+[2019-05-31 18:20:08,116 ERROR 7306 main.py] get_data error movie_id: 24716039 error: could not convert string to float: 
+[2019-05-31 18:20:35,702 ERROR 7306 main.py] get_data error movie_id: 26613692 error: could not convert string to float: 
+[2019-05-31 18:20:52,298 ERROR 7306 main.py] get_data error movie_id: 19971676 error: could not convert string to float: 
+[2019-05-31 18:21:11,311 ERROR 7306 main.py] get_data error movie_id: 26931786 error: could not convert string to float: 
+[2019-05-31 18:21:29,074 ERROR 7306 main.py] get_data error movie_id: 26667010 error: could not convert string to float: 
+[2019-05-31 18:26:25,101 INFO  7559 main.py] finish 25890017
+ 哥斯拉2：怪兽之王 Godzilla: King of the Monsters 2019 6.9 13254.0
+[2019-05-31 18:26:53,681 ERROR 7559 main.py] get_data error movie_id: 27109633 error: no such column: None
+[2019-05-31 18:27:13,322 ERROR 7559 main.py] get_data error movie_id: 6874475 error: Invalid control character at: line 168 column 220 (char 3808)
+[2019-05-31 18:27:35,047 ERROR 7559 main.py] get_data error movie_id: 25828589 error: no such column: None
+[2019-05-31 18:27:55,519 ERROR 7559 main.py] get_data error movie_id: 3001114 error: no such column: None
+[2019-05-31 18:28:12,112 ERROR 7559 main.py] get_data error movie_id: 30444942 error: no such column: None
+[2019-05-31 18:28:39,545 ERROR 7559 main.py] get_data error movie_id: 24716039 error: no such column: None
+[2019-05-31 18:29:04,396 ERROR 7559 main.py] get_data error movie_id: 26613692 error: no such column: None
+[2019-05-31 18:29:30,344 INFO  7684 main.py] finish 25890017
+ 哥斯拉2：怪兽之王 Godzilla: King of the Monsters 2019 6.9 13254.0
+[2019-05-31 18:29:52,038 INFO  7684 main.py] finish 27109633 终结者：黑暗命运 Terminator: Dark Fate 2019 NULL 0.0
+[2019-05-31 18:30:22,460 INFO  7684 main.py] finish 26959697 黑亚当 Black Adam 2020 NULL 0.0
+[2019-05-31 18:30:39,130 INFO  7684 main.py] finish 25885824 牌皇 Gambit 2020 NULL 0.0
+[2019-05-31 18:30:54,821 INFO  7684 main.py] finish 26389321 X战警：新变种人 The New Mutants 2020 NULL 0.0
+[2019-05-31 18:31:19,399 ERROR 7684 main.py] get_data error movie_id: 30167997 error: Invalid control character at: line 42 column 280 (char 1131)
+[2019-05-31 18:35:37,151 ERROR 7927 main.py] get_data error movie_id: 25890017
+ error: 'ascii' codec can't encode characters in position 0-2: ordinal not in range(128)
+[2019-05-31 18:37:23,955 ERROR 7965 main.py] get_data error movie_id: 26959697 error: 'ascii' codec can't encode characters in position 0-2: ordinal not in range(128)
+[2019-05-31 18:37:51,699 ERROR 7965 main.py] get_data error movie_id: 25885824 error: 'ascii' codec can't encode characters in position 0-1: ordinal not in range(128)
+[2019-05-31 18:38:13,330 ERROR 7965 main.py] get_data error movie_id: 25885824 error: 'ascii' codec can't encode characters in position 0-1: ordinal not in range(128)
+[2019-05-31 18:38:31,450 ERROR 8002 main.py] get_data error movie_id: 25890017 error: 'ascii' codec can't encode characters in position 0-2: ordinal not in range(128)
+[2019-05-31 18:38:34,916 ERROR 8002 main.py] get_data error movie_id: 26959697 error: 'ascii' codec can't encode characters in position 0-2: ordinal not in range(128)
+[2019-05-31 18:38:39,444 ERROR 8002 main.py] get_data error movie_id: 26389321 error: 'ascii' codec can't encode characters in position 1-7: ordinal not in range(128)
+[2019-05-31 18:38:41,982 ERROR 8002 main.py] get_data error movie_id: 26959697 error: 'ascii' codec can't encode characters in position 0-2: ordinal not in range(128)
+[2019-05-31 18:39:17,117 ERROR 8027 main.py] get_data error movie_id: 25885824 error: 'ascii' codec can't encode characters in position 0-1: ordinal not in range(128)
+[2019-05-31 18:39:17,827 ERROR 8027 main.py] get_data error movie_id: 25890017 error: 'ascii' codec can't encode characters in position 0-2: ordinal not in range(128)
+[2019-05-31 18:39:26,015 ERROR 8049 main.py] get_data error movie_id: 25885824 error: 'ascii' codec can't encode characters in position 0-1: ordinal not in range(128)
+[2019-05-31 18:44:46,307 ERROR 8269 main.py] get_data error movie_id: 25890017 error: 'ascii' codec can't encode characters in position 0-2: ordinal not in range(128)
+[2019-05-31 18:44:46,942 ERROR 8269 main.py] get_data error movie_id: 26389321 error: 'ascii' codec can't encode characters in position 1-7: ordinal not in range(128)
+[2019-05-31 18:44:48,901 ERROR 8269 main.py] get_data error movie_id: 26959697 error: 'ascii' codec can't encode characters in position 0-2: ordinal not in range(128)
+[2019-05-31 18:44:50,647 ERROR 8269 main.py] get_data error movie_id: 27109633 error: 'ascii' codec can't encode characters in position 0-7: ordinal not in range(128)
+[2019-05-31 18:44:54,324 ERROR 8269 main.py] get_data error movie_id: 25885824 error: 'ascii' codec can't encode characters in position 0-1: ordinal not in range(128)
+[2019-05-31 18:45:22,074 ERROR 8298 main.py] get_data error movie_id: 25890017 error: 'ascii' codec can't encode characters in position 0-2: ordinal not in range(128)
+[2019-05-31 18:45:27,603 ERROR 8298 main.py] get_data error movie_id: 25885824 error: 'ascii' codec can't encode characters in position 0-1: ordinal not in range(128)
+[2019-05-31 18:45:57,298 ERROR 8324 main.py] get_data error movie_id: 27109633 error: 'ascii' codec can't encode characters in position 0-7: ordinal not in range(128)
+[2019-05-31 18:45:58,015 ERROR 8324 main.py] get_data error movie_id: 25885824 error: 'ascii' codec can't encode characters in position 0-1: ordinal not in range(128)
+[2019-05-31 18:46:50,749 ERROR 8354 main.py] get_data error movie_id: 26389321 error: 'ascii' codec can't encode characters in position 1-7: ordinal not in range(128)
+[2019-05-31 18:46:51,464 ERROR 8354 main.py] get_data error movie_id: 25890017 error: 'ascii' codec can't encode characters in position 0-2: ordinal not in range(128)
+[2019-05-31 18:46:51,945 ERROR 8354 main.py] get_data error movie_id: 25885824 error: 'ascii' codec can't encode characters in position 0-1: ordinal not in range(128)
+[2019-05-31 18:46:58,638 ERROR 8372 main.py] get_data error movie_id: 25885824 error: 'ascii' codec can't encode characters in position 0-1: ordinal not in range(128)
+[2019-05-31 18:47:02,321 ERROR 8372 main.py] get_data error movie_id: 27109633 error: 'ascii' codec can't encode characters in position 0-7: ordinal not in range(128)
+[2019-05-31 18:47:03,855 ERROR 8372 main.py] get_data error movie_id: 26959697 error: 'ascii' codec can't encode characters in position 0-2: ordinal not in range(128)
+[2019-05-31 18:47:35,517 ERROR 8385 main.py] get_data error movie_id: 25885824 error: 'ascii' codec can't encode characters in position 0-1: ordinal not in range(128)
+[2019-05-31 18:48:27,417 INFO  8409 main.py] finish 26959697 黑亚当 Black Adam 2020 NULL 0.0
+[2019-05-31 19:34:14,628 ERROR 9125 main.py] get_data error movie_id: 1889243 error: Value for header {Upgrade-Insecure-Requests: 1} must be of type str or bytes, not <type 'int'>
+[2019-05-31 19:34:37,634 ERROR 9125 main.py] get_data error movie_id: 26147395 error: Value for header {Upgrade-Insecure-Requests: 1} must be of type str or bytes, not <type 'int'>
+[2019-05-31 19:34:52,637 ERROR 9125 main.py] get_data error movie_id: 25978134 error: Value for header {Upgrade-Insecure-Requests: 1} must be of type str or bytes, not <type 'int'>
+[2019-05-31 19:48:09,260 INFO  871879 connectionpool.py] Starting new HTTPS connection (1): movie.douban.com
+[2019-05-31 19:48:10,223 INFO  871879 main.py] finish 1302425 喜剧之王 喜劇之王 1999 8.7 485576
+[2019-05-31 19:48:20,237 INFO  871879 connectionpool.py] Starting new HTTPS connection (1): movie.douban.com
+[2019-05-31 19:48:21,012 INFO  871879 main.py] finish 1329936 大内密探零零发 大內密探零零發 1996 7.8 223925
+[2019-05-31 19:49:05,060 INFO  871879 connectionpool.py] Starting new HTTPS connection (1): movie.douban.com
+[2019-05-31 19:49:05,895 INFO  871879 main.py] finish 1297863 武状元苏乞儿 武狀元蘇乞兒 1992 7.7 195199
+[2019-05-31 19:49:47,941 INFO  871879 connectionpool.py] Starting new HTTPS connection (1): movie.douban.com
+[2019-05-31 19:49:49,175 INFO  871879 main.py] finish 1305355 审死官 審死官 1992 7.6 116388
